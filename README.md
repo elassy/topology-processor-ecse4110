@@ -4,8 +4,12 @@ Code developed for the ECSE 4110 - Power Engineering Analysis project
 ## Requirements
 
 Python 2.6 or 2.7
+
 NumPy (version 1.9 or later)
 
+Erlang/OTP 20.1
+
+MATLAB 2013a or later
 
 ## Citation of Paper
 
